@@ -2,7 +2,7 @@
 
 
 ## I'm a Passionate Full Stack Developer!
-- 🔭 I’m currently working on my solo project
+- 🔭 I’m currently working on my solo project for fun every day
 - 🌱 I’m currently learning Flask
 - 👯 I’m looking to collaborate on open projects
 - 💬 Ask me about ... Anything
