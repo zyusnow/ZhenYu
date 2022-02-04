@@ -3,7 +3,7 @@
 
 ## I'm a Passionate Full Stack Developer!
 - 🔭 I’m currently working on my solo project
-- 🌱 I’m currently working with my team members on "Techsy" - eCommerche Website using Flask, React and Docker.
+- 🌱 I’m currently learning Flask
 - 👯 I’m looking to collaborate on open projects
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I love playing Lego
