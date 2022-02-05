@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Flask
 - 👯 I’m looking to collaborate on open projects
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I love playing Lego
+- ⚡ Fun fact: I love playing Lego and documentation.
 - 📫 You can reach out to me at zyuluna@gmail.com
 - 🔗 Want to connect? Find me on [LinkedIn][linkedin]
 
