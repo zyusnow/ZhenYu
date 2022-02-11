@@ -1,8 +1,8 @@
 ### Hi there, I'm Zhen Yu 👋
 
-- <div>🌱 I'm a Full Stack Developer with a passion for coming up with creative solutions to challenging problems.</div>
-- <div>🔭 I used to be a product manager in the past a few years.</div>
-- <div>👯 As a developer, I indulges in building meaningful & delightful apps that impact millions of people. </div>
+- 🌱 I'm a Full Stack Developer with a passion for coming up with creative solutions to challenging problems.</div>
+- 🔭 I used to be a product manager in the past a few years.</div>
+- 👯 As a developer, I indulges in building meaningful & delightful products. </div>
 
 ### Find me
 - 📫 Let's talk: zyuluna@gmail.com
