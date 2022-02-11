@@ -1,14 +1,13 @@
-### Hello World, I'm Zhen Yu 👋
+### Hi there, I'm Zhen Yu 👋
 
+- <div>🌱 I'm a Full Stack Developer with a passion for coming up with creative solutions to challenging problems.</div>
+- <div>🔭 I used to be a product manager in the past a few years.</div>
+- <div>👯 As a developer, I indulges in building meaningful & delightful apps that impact millions of people. </div>
 
-## I'm a Passionate Full Stack Developer!
-- 🔭 I’m currently working on my solo project for fun every day
-- 🌱 I’m currently learning Flask
-- 👯 I’m looking to collaborate on open projects
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: I love playing Lego and documentation.
-- 📫 You can reach out to me at zyuluna@gmail.com
+### Find me
+- 📫 Talk to me at zyuluna@gmail.com</div>
 - 🔗 Want to connect? Find me on [LinkedIn][linkedin]
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyusnow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,6 +31,7 @@
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 
 
 [linkedin]: https://www.linkedin.com/in/mezyu/
