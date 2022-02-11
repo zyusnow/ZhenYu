@@ -5,9 +5,10 @@
 - <div>👯 As a developer, I indulges in building meaningful & delightful apps that impact millions of people. </div>
 
 ### Find me
-- 📫 Talk to me at zyuluna@gmail.com</div>
-- 🔗 Want to connect? Find me on [LinkedIn][linkedin]
+- 📫 Let's talk: zyuluna@gmail.com
+- 🔗 Want to connect? [LinkedIn][linkedin]
 
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyusnow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
