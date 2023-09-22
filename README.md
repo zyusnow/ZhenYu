@@ -1,8 +1,14 @@
 ### Hi there, I'm Zhen Yu 👋
 
-- 🌱 I'm a Full Stack Developer with a passion for coming up with creative solutions to challenging problems.</div>
-- 🔭 I used to be a product manager in the past a few years.</div>
-- 👯 As a developer, I indulges in building meaningful & delightful products. </div>
+Heya! 
+
+🌱 I help products to define a vision that drives long-term business goal. </div>
+
+🔭 I manage product/projects to get successfully launched with the process from problem to engineering handoff. </div>
+
+👯 I'm a data-driven person. I make decisions using facts, metrics, and insights to guide business goals. </div>
+
+My skill set: Python, SQL, Excel, Sequelize, Javascript, Node.js, React & Redux, APIs, Git, Docker
 
 ### Find me
 - 📫 Let's talk: zyuluna@gmail.com
